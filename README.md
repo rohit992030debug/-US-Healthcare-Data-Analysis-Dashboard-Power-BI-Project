@@ -40,7 +40,7 @@ To convert healthcare data into meaningful insights using interactive visualizat
 Data storytelling through dashboards
 <img width="932" height="530" alt="{0A3E4CD1-960E-497C-955D-A2E47C73C315}" src="https://github.com/user-attachments/assets/2fe7eca5-b518-40da-9aed-c05adc62c096" />
 
-<img width="965" height="553" alt="{DAC12FAE-D295-4010-A0EA-419AE06D3E08}" src="https://github.com/user-attachments/assets/a3eb1fbe-5fbb-4db5-b01d-16eca13401dc" />
+
 
 Creating interactive filters and visuals
 
